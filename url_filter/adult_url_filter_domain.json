@@ -1,0 +1,13 @@
+{
+    "header": {
+        "file_name": "adult_url_filter",
+        "generated_at": "2025-10-12 01:55:29",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "url_list": [
+        "*.poppen.de",
+        "dario-grd.from.hr",
+        "serv319.controldeservidor.com",
+        "www.youporn.com"
+    ]
+}
