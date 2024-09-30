@@ -1,0 +1,17 @@
+{
+    "header": {
+        "file_name": "hacking_url_filter",
+        "generated_at": "2024-10-22 03:07:10",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "ip_list": [
+        "18.211.24.19",
+        "104.18.5.159",
+        "104.18.12.238",
+        "104.21.27.12",
+        "104.21.52.30",
+        "104.22.27.201",
+        "104.26.4.47",
+        "193.109.246.53"
+    ]
+}
