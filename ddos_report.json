@@ -1,0 +1,12 @@
+{
+    "header": {
+        "file_name": "ddos_report",
+        "generated_at": "2026-02-08 00:49:39",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "ip_list": [
+        "82.147.84.129",
+        "122.227.75.234",
+        "156.247.51.13"
+    ]
+}
