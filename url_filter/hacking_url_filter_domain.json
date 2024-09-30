@@ -1,0 +1,15 @@
+{
+    "header": {
+        "file_name": "hacking_url_filter",
+        "generated_at": "2024-10-18 07:14:52",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "url_list": [
+        "anonyviet.com",
+        "cdimage.kali.org",
+        "iosgods.com",
+        "wire.shodan.io",
+        "www.kali.org",
+        "www.nulled.to"
+    ]
+}
