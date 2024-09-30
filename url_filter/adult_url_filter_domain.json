@@ -1,0 +1,10 @@
+{
+    "header": {
+        "file_name": "adult_url_filter",
+        "generated_at": "2026-04-19 08:34:00",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "url_list": [
+        "www.youporn.com"
+    ]
+}
