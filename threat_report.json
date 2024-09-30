@@ -1,0 +1,10 @@
+{
+    "header": {
+        "file_name": "threat_report",
+        "generated_at": "2025-06-16 05:47:42",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "ip_list": [
+        "104.19.247.7"
+    ]
+}
