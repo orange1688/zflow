@@ -1,0 +1,14 @@
+{
+    "header": {
+        "file_name": "hacking_url_filter",
+        "generated_at": "2025-07-20 02:45:52",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "url_list": [
+        "api.shodan.io",
+        "assets.checkra.in",
+        "hashcat.net",
+        "www.exploit-db.com",
+        "www.openwall.com"
+    ]
+}
