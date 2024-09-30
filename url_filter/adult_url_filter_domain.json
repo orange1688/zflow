@@ -1,0 +1,14 @@
+{
+    "header": {
+        "file_name": "adult_url_filter",
+        "generated_at": "2026-09-06 02:24:40",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "url_list": [
+        "www.myacg.com.tw",
+        "www.xxx.com",
+        "www27.eyny.com",
+        "www53.eyny.com",
+        "www54.eyny.com"
+    ]
+}
