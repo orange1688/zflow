@@ -1,0 +1,12 @@
+{
+    "header": {
+        "file_name": "adult_url_filter",
+        "generated_at": "2026-11-01 02:30:57",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "ip_list": [
+        "23.19.71.160",
+        "23.19.72.223",
+        "79.127.140.226"
+    ]
+}

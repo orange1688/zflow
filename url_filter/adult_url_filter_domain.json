@@ -1,0 +1,11 @@
+{
+    "header": {
+        "file_name": "adult_url_filter",
+        "generated_at": "2026-11-01 02:30:57",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "url_list": [
+        "www.xxx.com",
+        "www27.eyny.com"
+    ]
+}
