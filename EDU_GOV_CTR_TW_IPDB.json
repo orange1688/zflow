@@ -1,0 +1,455 @@
+{
+    "header": {
+        "file_name": "EDU_GOV_CTR_TW_IPDB",
+        "generated_at": "2026-03-01 19:22:55",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "asn_list": [
+        {
+            "asn": 1659,
+            "name": "ERX-TANET-ASN1 Taiwan Academic Network TANet Information Center",
+            "organization": "Taiwan Academic Network (TANet) Information Center",
+            "country": "TW",
+            "rir": "APNIC",
+            "routes": {
+                "v4": [
+                    "120.96.0.0/11",
+                    "134.208.0.0/16",
+                    "140.92.0.0/16",
+                    "140.92.0.0/17",
+                    "140.92.128.0/17",
+                    "140.110.0.0/15",
+                    "140.112.0.0/12",
+                    "140.128.0.0/13",
+                    "140.134.0.0/16",
+                    "140.136.0.0/15",
+                    "140.138.0.0/16",
+                    "163.13.0.0/16",
+                    "163.14.0.0/15",
+                    "163.16.0.0/13",
+                    "163.24.0.0/14",
+                    "163.28.0.0/16",
+                    "163.30.0.0/15",
+                    "163.32.0.0/16",
+                    "192.83.166.0/23",
+                    "192.83.168.0/21",
+                    "192.83.176.0/20",
+                    "192.83.192.0/22",
+                    "192.83.196.0/24",
+                    "192.192.0.0/16",
+                    "192.192.21.0/24",
+                    "192.192.24.0/23",
+                    "192.192.26.0/24",
+                    "192.192.114.0/23",
+                    "203.64.0.0/16",
+                    "203.64.8.0/21",
+                    "203.68.0.0/16",
+                    "203.71.0.0/16",
+                    "203.72.0.0/16",
+                    "203.72.0.0/21",
+                    "210.59.0.0/17",
+                    "210.60.0.0/16",
+                    "210.60.8.0/22",
+                    "210.60.12.0/23",
+                    "210.60.28.0/22",
+                    "210.60.80.0/21",
+                    "210.60.88.0/22",
+                    "210.60.92.0/24",
+                    "210.60.119.0/24",
+                    "210.60.122.0/23",
+                    "210.60.124.0/23",
+                    "210.60.126.0/24",
+                    "210.60.183.0/24",
+                    "210.60.184.0/22",
+                    "210.60.188.0/23",
+                    "210.60.190.0/24",
+                    "210.60.221.0/24",
+                    "210.60.222.0/24",
+                    "210.60.223.0/24",
+                    "210.62.64.0/19",
+                    "210.62.224.0/20",
+                    "210.62.240.0/21",
+                    "210.67.248.0/21",
+                    "210.70.0.0/16",
+                    "210.71.0.0/17",
+                    "210.240.0.0/16",
+                    "210.243.0.0/18"
+                ],
+                "v6": [
+                    "2001:288::/32"
+                ]
+            }
+        },
+        {
+            "asn": 4782,
+            "name": "GSNET Data Communication Business Group",
+            "organization": "Government Service Network",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "61.57.32.0/19",
+                    "61.60.0.0/17",
+                    "61.67.64.0/19",
+                    "103.160.86.0/23",
+                    "117.56.0.0/16",
+                    "117.56.0.0/18",
+                    "124.199.64.0/19",
+                    "124.199.96.0/20",
+                    "163.29.0.0/16",
+                    "203.65.0.0/17",
+                    "203.65.128.0/19",
+                    "210.69.0.0/16",
+                    "210.241.0.0/17",
+                    "211.79.128.0/19",
+                    "211.79.160.0/19",
+                    "223.200.0.0/16"
+                ],
+                "v6": [
+                    "2001:4420::/32",
+                    "2406:e5c0::/32"
+                ]
+            }
+        },
+        {
+            "asn": 7539,
+            "name": "TWAREN-TW National Center for High-performance Computing",
+            "organization": "National Center for High-performance Computing",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "103.124.72.0/22",
+                    "103.160.220.0/23",
+                    "103.160.220.0/24",
+                    "120.101.64.0/22",
+                    "140.110.0.0/16",
+                    "140.110.200.0/21",
+                    "140.110.215.0/24",
+                    "203.145.200.0/21",
+                    "203.145.208.0/20",
+                    "211.73.64.0/19",
+                    "211.73.72.0/24",
+                    "211.79.48.0/20"
+                ],
+                "v6": [
+                    "2001:e10::/32",
+                    "2001:4500:1000::/40"
+                ]
+            }
+        },
+        {
+            "asn": 9264,
+            "name": "ASNET Academia Sinica",
+            "organization": "Academia Sinica",
+            "country": "TW",
+            "rir": "APNIC",
+            "routes": {
+                "v4": [
+                    "103.130.252.0/22",
+                    "140.109.0.0/16",
+                    "202.169.160.0/20"
+                ],
+                "v6": [
+                    "2001:c08::/32",
+                    "2403:c240::/32"
+                ]
+            }
+        },
+        {
+            "asn": 9916,
+            "name": "NCTU-TW National Yang Ming Chiao Tung University",
+            "organization": "National Yang Ming Chiao Tung University",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "120.126.32.0/19",
+                    "120.126.64.0/19",
+                    "120.126.96.0/20",
+                    "140.113.0.0/16",
+                    "140.129.51.0/24",
+                    "140.129.52.0/22",
+                    "140.129.56.0/21",
+                    "140.129.64.0/20",
+                    "140.129.80.0/24"
+                ],
+                "v6": [
+                    "2001:f18::/32"
+                ]
+            }
+        },
+        {
+            "asn": 17711,
+            "name": "NDHU-TW National Dong Hwa University",
+            "organization": "National Dong Hwa University",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [],
+                "v6": []
+            }
+        },
+        {
+            "asn": 17712,
+            "name": "CCU-TW National Chung Cheng University",
+            "organization": "National Chung Cheng University",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [],
+                "v6": []
+            }
+        },
+        {
+            "asn": 17713,
+            "name": "NSYSU-TW Ministry of Education Computer Center",
+            "organization": "National Sun Yat-sen University",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "140.117.0.0/16"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "asn": 17716,
+            "name": "NTU-TW National Taiwan University",
+            "organization": "National Taiwan University",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "120.96.0.0/19",
+                    "120.96.240.0/21",
+                    "120.96.248.0/22",
+                    "140.112.0.0/16"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "asn": 17717,
+            "name": "MOECC-IPV6 Ministry of Education Computer Center Taipei, Taiwan",
+            "organization": "Ministry of Education Computer Center Taipei, Taiwan",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [],
+                "v6": []
+            }
+        },
+        {
+            "asn": 18047,
+            "name": "NTHU-TW National Tsing-Hua University",
+            "organization": "National Tsing-Hua University",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "120.127.160.0/19",
+                    "140.114.0.0/16"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "asn": 18177,
+            "name": "NCKU-TW National Cheng Kung University",
+            "organization": "National Cheng Kung University",
+            "country": "TW",
+            "rir": "APNIC",
+            "routes": {
+                "v4": [],
+                "v6": []
+            }
+        },
+        {
+            "asn": 18183,
+            "name": "NCREE National Center for Research on Earthquake Engineering",
+            "organization": "National Center for Research on Earthquake Engineering",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "61.56.0.0/20",
+                    "61.56.4.0/24",
+                    "61.56.8.0/21",
+                    "103.189.132.0/23",
+                    "202.5.12.0/22"
+                ],
+                "v6": [
+                    "2001:4500::/32",
+                    "2001:4500:1100::/40",
+                    "2001:4500:1100::/41",
+                    "2001:4500:1180::/41",
+                    "2400:85a0::/32"
+                ]
+            }
+        },
+        {
+            "asn": 18185,
+            "name": "NTCU-AS-TW 4F, No.114, Sec.1, Chung-Shiao W. Road",
+            "organization": "National Chiao Tung University",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "211.76.240.0/20"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "asn": 18420,
+            "name": "NCU-TW National Central University",
+            "organization": "National Central University",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "140.115.0.0/16"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "asn": 18422,
+            "name": "ITRINET-AS-TW Industrial Technology Research Institute",
+            "organization": "Industrial Technology Research Institute",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "61.61.240.0/20",
+                    "61.61.240.0/21",
+                    "61.61.240.0/22",
+                    "61.61.242.0/24",
+                    "61.61.244.0/22",
+                    "61.61.244.0/24",
+                    "61.61.248.0/21",
+                    "61.61.248.0/22",
+                    "61.61.252.0/22",
+                    "140.96.0.0/16",
+                    "140.96.0.0/17",
+                    "140.96.0.0/18",
+                    "140.96.0.0/19",
+                    "140.96.32.0/19",
+                    "140.96.64.0/18",
+                    "140.96.64.0/19",
+                    "140.96.96.0/19",
+                    "140.96.128.0/17",
+                    "140.96.128.0/18",
+                    "140.96.128.0/19",
+                    "140.96.160.0/19",
+                    "140.96.170.0/23",
+                    "140.96.170.0/24",
+                    "140.96.171.0/24",
+                    "140.96.172.0/22",
+                    "140.96.172.0/23",
+                    "140.96.174.0/23",
+                    "140.96.176.0/21",
+                    "140.96.176.0/22",
+                    "140.96.180.0/22",
+                    "140.96.192.0/18",
+                    "140.96.192.0/19",
+                    "140.96.224.0/19"
+                ],
+                "v6": [
+                    "2001:ed8::/32",
+                    "2001:ed8::/33",
+                    "2001:ed8:8000::/33"
+                ]
+            }
+        },
+        {
+            "asn": 18426,
+            "name": "STPI-AS-TW National Applied Research Laboratories",
+            "organization": "National Applied Research Laboratories",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "203.145.192.0/21"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "asn": 38847,
+            "name": "NCHU-AS-TW National Chung Hsing University",
+            "organization": "National Chung Hsing University",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [],
+                "v6": []
+            }
+        },
+        {
+            "asn": 63899,
+            "name": "CHUAN-CHAN-NET-A National Taiwan University of Science and Technology",
+            "organization": "National Taiwan University of Science and Technology",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "103.191.22.0/23"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "asn": 131621,
+            "name": "TWNIC-NET-AS Taiwan Network Information Center",
+            "organization": "Taiwan Network Information Center",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "101.101.101.0/24",
+                    "101.102.103.0/24",
+                    "182.173.1.0/24"
+                ],
+                "v6": [
+                    "2001:de4::/48"
+                ]
+            }
+        },
+        {
+            "asn": 131644,
+            "name": "TWNIC-AS Taiwan Network Information Center",
+            "organization": "Taiwan Network Information Center",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "61.67.121.0/24",
+                    "101.101.101.0/24",
+                    "101.102.103.0/24",
+                    "103.235.89.0/24",
+                    "119.75.240.0/22",
+                    "182.173.0.0/24"
+                ],
+                "v6": []
+            }
+        },
+        {
+            "asn": 150772,
+            "name": "NCCC-AS-TW National Credit Card Center of R.O.C.",
+            "organization": "National Credit Card Center of R.O.C.",
+            "country": "TW",
+            "rir": null,
+            "routes": {
+                "v4": [
+                    "157.20.106.0/23",
+                    "157.20.106.0/24",
+                    "157.20.107.0/24"
+                ],
+                "v6": []
+            }
+        }
+    ]
+}

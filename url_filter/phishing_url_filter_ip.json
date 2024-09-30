@@ -1,0 +1,10 @@
+{
+    "header": {
+        "file_name": "phishing_url_filter",
+        "generated_at": "2026-03-01 19:22:59",
+        "generated_by": "zflow (Yuan Ze University - Information Service Center)"
+    },
+    "ip_list": [
+        "51.159.173.17"
+    ]
+}
